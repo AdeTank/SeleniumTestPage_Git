@@ -6,7 +6,10 @@
       <class name="openLink.SeleniumTest">
         <methods>
           <include name="setUp"/>
-          <include name="SeleniumAutomationTestPage"/>
+          <include name="clickOnVolontirajLink"/>
+          <include name="dragAndDrop"/>
+          <include name="TearDown"/>
+          <include name="mouseOver"/>
         </methods>
       </class> <!-- openLink.SeleniumTest -->
     </classes>
